@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @FernandoTorresDev
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning JavaScript, HTML, CSS and React
 - 💞️ I’m looking to collaborate on begginer python/django projects
 - 📫 How to reach me: candeiatorresfernando@gmail.com
 
@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a undergraduate computer science student at UFCG (Brazil)
 
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on other Django and Python projects!
+- 🌱 I’m currently learning Javascript, HTML, CSS and React
+- 👯 I’m looking to collaborate on other projects!
 
 ### Connect with me:
 
