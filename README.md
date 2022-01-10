@@ -1,11 +1,11 @@
-<!-- - 👋 Hi, I’m @FernandoTorresDev
+<!-- - 👋 Hi, I’m @fernandocandeiatorres
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript, HTML, CSS and React
 - 💞️ I’m looking to collaborate on begginer python/django projects
 - 📫 How to reach me: candeiatorresfernando@gmail.com
 
 <!---
-FernandoTorresDev/FernandoTorresDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fernandocandeiatorres/fernandocandeiatorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
 ### Hi there, I'm Fernando 👋
@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 <br />
  <div>
-  <a href="https://github.com/FernandoTorresDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandotorresdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandotorresdev&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/fernandocandeiatorres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandocandeiatorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocandeiatorres&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
