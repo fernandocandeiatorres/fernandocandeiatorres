@@ -1,8 +1,8 @@
 <!-- - 👋 Hi, I’m @fernandocandeiatorres
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript, HTML, CSS and React
-- 💞️ I’m looking to collaborate on begginer python/django projects
-- 📫 How to reach me: candeiatorresfernando@gmail.com
+- 🧑‍💻 I’m interested in Programming
+- 🧑‍💻 I’m currently learning JavaScript, HTML, CSS and React
+- 🧑‍💻 I’m looking to collaborate on begginer python/django projects
+- 🧑‍💻 How to reach me: candeiatorresfernando@gmail.com
 
 <!---
 fernandocandeiatorres/fernandocandeiatorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a undergraduate computer science student at UFCG (Brazil)
 
-- 🌱 I’m currently learning Javascript, HTML, CSS and React
-- 👯 I’m looking to collaborate on other projects!
+- 🧑‍💻 I’m currently learning Javascript, HTML, CSS and ReactJS
+- 🧑‍💻 I’m looking to collaborate on other projects!
 
 ### Connect with me:
 
