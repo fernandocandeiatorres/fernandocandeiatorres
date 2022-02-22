@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @fernandocandeiatorres
 - 🧑‍💻 I’m interested in Programming
-- 🧑‍💻 I’m currently learning JavaScript, HTML, CSS and React
+- 🧑‍💻 I’m currently learning NextJS & TailwindCSS
 - 🧑‍💻 I’m looking to collaborate on begginer python/django projects
 - 🧑‍💻 How to reach me: candeiatorresfernando@gmail.com
 
