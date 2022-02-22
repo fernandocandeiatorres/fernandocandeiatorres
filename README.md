@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🧑‍💻 I’m currently learning Javascript, HTML, CSS and ReactJS
 - 🧑‍💻 I’m looking to collaborate on other projects!
-- 🧑‍💻 SKILLS: HTML, CSS, JS, REACTJS, TAILWINDCSS, PYTHON 
+- 🧑‍💻 SKILLS: ReactJS, TailwindCSS, NextJS, Python, Django, Javascript
 
 ### Connect with me:
 
