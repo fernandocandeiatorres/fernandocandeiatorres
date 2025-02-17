@@ -12,9 +12,10 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a undergraduate computer science student at UFCG (Brazil)
 
-- 🧑‍💻 I’m currently learning Javascript, HTML, CSS and ReactJS
+- 🧑‍💻 I’m currently learning Machine Learning and Deep Learning (How Machines Learns? - Book & MIT S6.191.
 - 🧑‍💻 I’m looking to collaborate on other projects!
-- 🧑‍💻 SKILLS: ReactJS, TailwindCSS, NextJS, Python, Django, Javascript
+- 🧑‍💻 ML/DL Skills: Tensorflow, PyTorch, Python, Pandas, Numpy, Scikit-Learn, Git Workflow
+- 🧑‍💻 WebDev Skills: React, Next.js, TailWind, DaisyUI, ExpressJS, Docker, Git Workflow
 
 ### Connect with me:
 
